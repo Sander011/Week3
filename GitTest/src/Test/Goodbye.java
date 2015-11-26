@@ -6,8 +6,14 @@ public class Goodbye {
 		//ER IS EEN VERANDERING
 	}
 	
+
 	public boolean d() {
 		return true;
+	}
+
+	public String bah() {
+		return "Haaai"; 
+
 	}
 	
 	public int setInt() {
