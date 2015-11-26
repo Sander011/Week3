@@ -6,6 +6,10 @@ public class Goodbye {
 		//ER IS EEN VERANDERING
 	}
 	
+	public String bah() {
+		return "Haaai"; 
+	}
+	
 	public int setInt() {
 		return 4;
 	}
